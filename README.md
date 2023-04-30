@@ -1,6 +1,7 @@
 # Práctica
 
 Aplicación con **REACT** hecha para practicar la implementación de un backend simple con el Router de **express**.
+Basada en **notas**.
 
 ## TO-DO:
 
